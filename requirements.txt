@@ -1,0 +1,11 @@
+# Este repositorio utiliza exclusivamente la Biblioteca Estándar de Python (Python Standard Library).
+# Por lo tanto, NO es necesario instalar dependencias de terceros mediante pip.
+#
+# Requisitos de sistema:
+# - Python 3.8 o superior (con soporte para Tkinter).
+#
+# Nota para usuarios de Linux (Debian / Ubuntu):
+# Si tu instalación de Python no incluye Tkinter por defecto, puedes instalarlo ejecutando:
+#   sudo apt update && sudo apt install -y python3-tk
+#
+# En Windows y macOS, Tkinter viene preinstalado con el instalador oficial de python.org.
